@@ -1,2 +1,2 @@
 # kotlin-auto-service
-Simple service on Kotlin
+Пример простого SpringBoot приложения на Kotlin (REST API)

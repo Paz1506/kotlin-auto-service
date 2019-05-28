@@ -9,4 +9,4 @@ import javax.persistence.Table
  */
 @Entity
 @Table(name = "AUTO")
-data class Auto(@Column(name = "NAME") var name: String) : BaseEntity()
+open class Auto(@Column(name = "NAME") var name: String) : BaseEntity()
