@@ -8,5 +8,5 @@ import javax.persistence.Table
  * @author Pavel Zaytsev
  */
 @Entity
-@Table(name = "HOUSE")
+@Table(name = "AUTO")
 data class Auto(@Column(name = "NAME") var name: String) : BaseEntity()

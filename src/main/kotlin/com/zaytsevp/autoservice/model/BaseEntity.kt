@@ -6,6 +6,8 @@ import java.util.*
 import javax.persistence.*
 
 /**
+ * Базовый класс, от которого наследуются все сущности
+ *
  * @author Pavel Zaytsev
  */
 @MappedSuperclass
